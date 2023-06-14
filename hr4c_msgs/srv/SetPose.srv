@@ -1,0 +1,8 @@
+int8 LINEAR=0
+int8 MINJERK=1
+geometry_msgs/Vector3 position
+float64 goal_time
+uint8 interpolation_method
+bool wait_interpolation
+bool linear_motion
+---

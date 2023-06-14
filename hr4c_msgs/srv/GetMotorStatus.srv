@@ -1,0 +1,8 @@
+---
+string SERVO=servo
+string ALARM=alarm
+string LIMIT_ALARM=limit_alarm
+string DEVICE_ERROR=device_error
+string CONNECTION_ERROR=connection_error
+string IN_POSITION=in_position
+string motor_status
